@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedevguymarc&show_icons=true&count_private=true&hide_title=true&theme=dracula" alt="thedevguymarc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedevguymarc&" alt="thedevguymarc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedevguymarc&theme=dracula" alt="thedevguymarc" /></p>
