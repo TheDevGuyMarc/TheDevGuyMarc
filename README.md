@@ -16,9 +16,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevguymarc&theme=dracula" alt="thedevguymarc" />
 </div>
 
-<br/>
-<br/>
-
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedevguymarc&show_icons=true&count_private=true&hide_title=true&theme=dracula" alt="thedevguymarc" />
 </div>
