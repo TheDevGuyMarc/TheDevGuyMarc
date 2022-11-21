@@ -20,7 +20,7 @@
 <br/>
 
 <div>
-  <img align="right" src="https://readme-stats-ten-gules.vercel.app/api?username=thedevguymarc&show_icons=true&count_private=true&hide_title=true&theme=dracula" alt="thedevguymarc" />
+  <img align="center" src="https://readme-stats-ten-gules.vercel.app/api?username=thedevguymarc&show_icons=true&count_private=true&hide_title=true&theme=dracula" alt="thedevguymarc" />
 </div>
 
 <br/>
