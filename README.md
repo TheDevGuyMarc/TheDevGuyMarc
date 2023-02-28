@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevguymarc" alt="thedevguymarc" /></a> </p>
 
-- 🔭 I’m currently working on **Frost Forge Engine**
+- 🔭 I’m currently working on **Trauma Engine(Java Game Engine)**
 
-- 🌱 I’m currently learning **.NET Framework and Kubernetes**
+- 🌱 I’m currently learning **LWJGL**
 
 - 📝 I regularly write articles on [https://frost-forge-engine.github.io/Devlog/](https://frost-forge-engine.github.io/Devlog/)
 
