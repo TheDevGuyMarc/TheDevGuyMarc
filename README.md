@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevguymarc" alt="thedevguymarc" /></a> </p>
 
-- 🔭 I’m currently working on **D&D DM Tools**
+- 🔭 I’m currently working on **[PoC_RPG 2D](https://github.com/TheDevGuyMarc/PoC_RPG)**
 
-- 🌱 I’m currently learning **Cyber Security**
-
+- 🌱 I’m currently learning **Web Game Development**
 - 📝 I regularly write articles on [https://frost-forge-engine.github.io/Devlog/](https://frost-forge-engine.github.io/Devlog/)
 
 - 💬 Ask me about **Spring Boot, Laravel, Typescript**
