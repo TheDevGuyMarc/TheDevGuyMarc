@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevguymarc" alt="thedevguymarc" /></a> </p>
 
-- 🔭 I’m currently working on **[PoC_RPG 2D](https://github.com/TheDevGuyMarc/PoC_RPG)**
+- 🔭 I’m currently working on **[Infernal Engine](https://github.com/TheDevGuyMarc/Infernal) & [Gehenna Editor](https://github.com/TheDevGuyMarc/Gehenna)**
 
 - 🌱 I’m currently learning **Web Game Development**
 - 📝 I regularly write articles on [https://frost-forge-engine.github.io/Devlog/](https://frost-forge-engine.github.io/Devlog/)
@@ -82,9 +82,6 @@
   </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a> 
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
   </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
