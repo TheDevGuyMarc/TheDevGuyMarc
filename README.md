@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on **[Infernal Engine](https://github.com/TheDevGuyMarc/Infernal) & [Gehenna Editor](https://github.com/TheDevGuyMarc/Gehenna)**
 
-- 🌱 I’m currently learning **Web Game Development**
+- 🌱 I’m currently learning **Game Engine Development**
 - 📝 I regularly write articles on [https://frost-forge-engine.github.io/Devlog/](https://frost-forge-engine.github.io/Devlog/)
 
-- 💬 Ask me about **Spring Boot, Laravel, Typescript**
+- 💬 Ask me about **Java, Spring Boot, Laravel, Typescript**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
