@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevguymarc" alt="thedevguymarc" /></a> </p>
 
-- 🔭 I’m currently working on **[Infernal Engine](https://github.com/TheDevGuyMarc/Infernal) & [Gehenna Editor](https://github.com/TheDevGuyMarc/Gehenna)**
+- 🔭 I’m currently working on **[ExoCompanion](https://github.com/TheDevGuyMarc/ExoCompanion)**
 
-- 🌱 I’m currently learning **Game Engine Development**
-- 📝 I regularly write articles on [https://frost-forge-engine.github.io/Devlog/](https://frost-forge-engine.github.io/Devlog/)
+- 🌱 I’m currently learning **Web Development (Big Applications) & Architecture & Infrastructure**
+- 📝 I regularly write articles on my Blog
 
 - 💬 Ask me about **Java, Spring Boot, Laravel, Typescript**
 
