@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevguymarc" alt="thedevguymarc" /></a> </p>
 
-- 🔭 I’m currently working on **[ExoCompanion](https://github.com/TheDevGuyMarc/ExoCompanion)**
+- 🔭 I’m currently working on **[ExoCompanion](https://github.com/TheDevGuyMarc/ExoCompanion) & [ZenTank](https://github.com/TheDevGuyMarc/ZenTank)**
 
 - 🌱 I’m currently learning **Web Development (Big Applications) & Architecture & Infrastructure**
 - 📝 I regularly write articles on my Blog
