@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marc Hannappel</h1>
+<h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A passionate Fullstack Web Developer</h3>
 
 <div>
