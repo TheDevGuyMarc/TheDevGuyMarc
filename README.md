@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A passionate Fullstack Web Developer</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: My own api backend framework<br>🌱 I’m currently learning: Backend Framework Development<br>💬 Ask me about: PHP, Java, Typescript
+🔭 I’m currently working on: My own game engine<br>🌱 I’m currently learning: Game Engine Development<br>💬 Ask me about: PHP, Java, Typescript
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-hannappel-524a721b5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10751117) 
