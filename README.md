@@ -24,11 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/thedevguymarc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thedevguymarc" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevguymarc&show_icons=true&locale=en&layout=compact" alt="thedevguymarc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedevguymarc&show_icons=true&locale=en" alt="thedevguymarc" /></p>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheDevGuyMarc&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevGuyMarc&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
