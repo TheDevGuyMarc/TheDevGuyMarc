@@ -103,9 +103,7 @@
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=TheDevGuyMarc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-</div>
 
 <br/>  
 
@@ -120,13 +118,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TheDevGuyMarc&&style=flat-square" align="center" />
 </div>  
-
-<br/>
-
-### ✍️ Random Dev Quote
-<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-</div>div>
 
 <br/>  
 
