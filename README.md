@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My custom game engine**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Laravel 11**
 
 - 💬 Ask me about **Typescript, Java, PHP**
 
