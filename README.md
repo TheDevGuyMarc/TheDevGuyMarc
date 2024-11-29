@@ -103,8 +103,10 @@
 
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=TheDevGuyMarc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-  
+</div>
+
 <br/>  
 
 
@@ -112,10 +114,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheDevGuyMarc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevGuyMarc&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
