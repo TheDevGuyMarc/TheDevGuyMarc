@@ -4,17 +4,22 @@
   <img height="200" src="./github-header-image.png"  />
 </div>
 
-###
-
-<p align="left">- 🔭 I’m currently working on :<br>- 🌱 I’m currently learning:  <br>- ❓ Ask me about anything related to:   <br>- ⚡ Fun fact: I use tabs over spaces</p>
-
-###
-
-<img align="left" height="200" src="https://i.imgflip.com/9rvtqz.jpg"  />
-
-###
-
-<br clear="both">
+<table width="100%" style="border: none;">
+  <tr>
+    <td style="width: 50%; vertical-align: top; border: none;">
+      <img align="left" height="200" src="https://i.imgflip.com/9rvtqz.jpg"  />
+    </td>
+    <td style="width: 50%; vertical-align: top; border: none;">
+      <strong>About me</strong><br>
+      <p align="left">
+        - 🔭 I’m currently working on :  <br>
+        - 🌱 I’m currently learning:  <br>
+        - ❓ Ask me about anything related to:   <br>
+        - ⚡ Fun fact: I use tabs over spaces
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">My Skills</h2>
 
