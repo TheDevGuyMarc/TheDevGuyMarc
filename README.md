@@ -14,7 +14,7 @@
       <p align="left">
         - 🔭 I’m currently working on :  <br>
         - 🌱 I’m currently learning:  <br>
-        - ❓ Ask me about anything related to:   <br>
+        - ❓ Ask me about anything related to: Web Development  <br>
         - ⚡ Fun fact: I use tabs over spaces
       </p>
   </div>
