@@ -34,9 +34,6 @@
   <a href="https://www.linkedin.com/in/marc-hannappel-524a721b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-marc--hannappel-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:marc-hannappel@outlook.de">
-    <img src="https://img.shields.io/badge/Email-marc--hannappel%40outlook.de-D14836?style=for-the-badge" alt="Email" />
-  </a>
 </div>
 
 </br>
