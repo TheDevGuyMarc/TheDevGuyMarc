@@ -159,3 +159,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="./github-trophy.svg" alt="GitHub trophies"  />
+</div>
+
+###
