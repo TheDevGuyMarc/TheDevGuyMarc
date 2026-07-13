@@ -7,20 +7,38 @@
 
 <div>
   <div style="display: inline-block; width: 49%; vertical-align: top;">
-    <img align="left" height="200" src="https://i.imgflip.com/9rvtqz.jpg"  style="max-width: 100%;"/>
+    <img align="left" height="200" src="https://cdn.jsdelivr.net/gh/balazser/undraw-svg-collection@main/svgs/portfolio-website.svg"  style="max-width: 100%;"/>
   </div>
   <div style="display: inline-block; width: 49%; vertical-align: top;">
     <strong>About me</strong><br>
       <p align="left">
-        - 🔭 I’m currently working on : Web Apps with Laravel <br>
-        - 🌱 I’m currently learning: Laravel 12 Forge + Octane <br>
-        - ❓ Ask me about anything related to: Web Development  <br>
+        - 🔭 I'm currently working on: Web Apps with Laravel — and my <a href="https://thedevguymarc.github.io/Portfolio/">personal portfolio</a> (React 19, TypeScript, Vite) <br>
+        - ✍️ I write about: Software Engineering, Legacy-Modernisierung & KI-gestützte Workflows on my <a href="https://thedevguymarc.github.io/Portfolio/blog">Blog</a> <br>
+        - 🌱 I'm currently learning: Laravel 12 Forge + Octane <br>
+        - ❓ Ask me about anything related to: Web Development, Legacy-Modernisierung, KI-gestützte Dev-Workflows <br>
         - ⚡ Fun fact: I use tabs over spaces
       </p>
   </div>
 </div>
 
 </br>
+</br>
+
+<div align="center">
+  <a href="https://thedevguymarc.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-thedevguymarc.github.io-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://thedevguymarc.github.io/Portfolio/blog" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Case%20Studies%20%26%20Artikel-orange?style=for-the-badge" alt="Blog" />
+  </a>
+  <a href="https://www.linkedin.com/in/marc-hannappel-524a721b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-marc--hannappel-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:marc-hannappel@outlook.de">
+    <img src="https://img.shields.io/badge/Email-marc--hannappel%40outlook.de-D14836?style=for-the-badge" alt="Email" />
+  </a>
+</div>
+
 </br>
 </br>
 
@@ -37,9 +55,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="vitest" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn" />
     </td>
@@ -76,6 +95,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
@@ -100,7 +120,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
     </td>
   </tr>
 </table>
@@ -130,27 +149,13 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/TheDevGuyMarc/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=TheDevGuyMarc&color=blueviolet&style=flat&label=Profile+Views"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDevGuyMarc&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDevGuyMarc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=TheDevGuyMarc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h2 align="left">Buy me a coffee <3</h2>
-
-###
-
-<div align="center">
-  <a href="https://ko-fi.com/thedevguymarc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  </a>
+  <img src="./github-metrics.svg" alt="GitHub metrics"  />
 </div>
 
 ###
