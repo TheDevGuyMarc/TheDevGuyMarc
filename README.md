@@ -10,13 +10,13 @@
     <img align="left" height="200" src="https://cdn.jsdelivr.net/gh/balazser/undraw-svg-collection@main/svgs/portfolio-website.svg"  style="max-width: 100%;"/>
   </div>
   <div style="display: inline-block; width: 49%; vertical-align: top;">
-    <strong>About me</strong><br>
+    <strong>Über mich</strong><br>
       <p align="left">
-        - 🔭 I'm currently working on: Web Apps with Laravel — and my <a href="https://thedevguymarc.github.io/Portfolio/">personal portfolio</a> (React 19, TypeScript, Vite) <br>
-        - ✍️ I write about: Software Engineering, Legacy-Modernisierung & KI-gestützte Workflows on my <a href="https://thedevguymarc.github.io/Portfolio/blog">Blog</a> <br>
-        - 🌱 I'm currently learning: Laravel 12 Forge + Octane <br>
-        - ❓ Ask me about anything related to: Web Development, Legacy-Modernisierung, KI-gestützte Dev-Workflows <br>
-        - ⚡ Fun fact: I use tabs over spaces
+        - 🔭 Aktuell baue ich Web-Anwendungen mit Laravel — und mein <a href="https://thedevguymarc.github.io/Portfolio/">persönliches Portfolio</a> (React 19, TypeScript, Vite) <br>
+        - ✍️ Auf meinem <a href="https://thedevguymarc.github.io/Portfolio/blog">Blog</a> schreibe ich über Softwareentwicklung, Legacy-Modernisierung und KI-gestützte Workflows <br>
+        - 🌱 Gerade vertiefe ich: Laravel 12 mit Forge und Octane <br>
+        - 💬 Sprich mich an zu: Web Development, Legacy-Modernisierung, KI-gestützte Dev-Workflows <br>
+        - ⚡ Nebenbei: Ich nutze Tabs statt Spaces
       </p>
   </div>
 </div>
@@ -44,11 +44,11 @@
 
 <h2 align="left">My Skills</h2>
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Databases</th>
+    <th style="width: 33%;">Frontend</th>
+    <th style="width: 33%;">Backend</th>
+    <th style="width: 34%;">Databases</th>
   </tr>
   <tr>
     <td align="center">
@@ -81,9 +81,9 @@
     </td>
   </tr>
   <tr>
-    <th>DevOps</th>
-    <th>Platforms/OS</th>
-    <th>Misc.</th>
+    <th style="width: 33%;">DevOps</th>
+    <th style="width: 33%;">Platforms/OS</th>
+    <th style="width: 34%;">Misc.</th>
   </tr>
   <tr>
     <td align="center">
